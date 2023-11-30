@@ -1,0 +1,43 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+
+    @media  (max-width:767px) {
+        .chacha{
+            margin-top: 20px;
+            
+        }
+        .bgImg{
+
+            background-image: url('/mobweb.png');
+            background-size: cover ;
+
+            background-repeat: no-repeat;
+            background-position: 'top-left';
+            /*
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'top-left', */
+        }
+    }
+
+
+    @media  (min-width:363px) {
+        
+        .bgImg{
+            background-image: url('/finweb.png');
+            background-size: cover ;
+
+            background-repeat: no-repeat;
+            background-position: 'top-left';
+        }
+    }
+    
+    
+
+    
+
+
+
+
+
