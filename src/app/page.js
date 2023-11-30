@@ -111,7 +111,7 @@ const page = () => {
               <iframe
                 className="rounded sm:w-[100%]"
                 width="100%"
-                height="415"
+                height="100%"
                 src="https://www.youtube.com/embed/8-usUHa1KjQ"
                 frameborder="0"
                 allowfullscreen
@@ -138,7 +138,7 @@ const page = () => {
               <img
                 className="rounded sm:w-[100%]"
                 width="100%"
-                height="415"
+                height="100%"
                 src="https://www.medicare.gov/sites/default/files/styles/16_9_713x401/public/initiative-closeup.jpg.webp?itok=yBajkQwM"
                 frameborder="0"
                 allowfullscreen
@@ -172,7 +172,7 @@ const page = () => {
               <img
                 className="rounded sm:w-[100%]"
                 width="100%"
-                height="415"
+                height="100%"
                 src="https://www.medicare.gov/sites/default/files/styles/16_9_713x401/public/julyhmpg-initiative.jpg.webp?itok=QG2XvtpH"
                 frameborder="0"
                 allowfullscreen
@@ -242,7 +242,7 @@ const page = () => {
               <img
                 className="rounded"
                 width="100%"
-                height="615"
+                height="100%"
                 src="https://www.medicare.gov/sites/default/files/styles/hero_image_775/public/Cleveland-emailguy.png.webp?itok=tdocaxtF"
                 frameborder="0"
                 allowfullscreen
